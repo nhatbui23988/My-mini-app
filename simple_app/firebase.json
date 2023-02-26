@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "simple-app-dc229",
     "public": "build/web",
     "ignore": [
       "firebase.json",
